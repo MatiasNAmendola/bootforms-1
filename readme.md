@@ -16,7 +16,7 @@ BootForms will eventually be available via Packagist once it stabilizes a bit mo
         }
     ],
     "require": {
-        "adam-wathan/boot-forms": "dev-master"
+        "adamwathan/bootforms": "dev-master"
     }
 }
 ```
@@ -195,3 +195,4 @@ BootForm::text('First Name', 'first_name')->placeholder('John Doe');
 ```
 
 For more information about what's possible, check out the documentation for [my basic Form package.](https://github.com/adamwathan/form)
+
